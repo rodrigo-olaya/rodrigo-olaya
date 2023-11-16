@@ -21,6 +21,8 @@ I am a third year Computer Engineering student at Penn State University. I am ve
 ## 🔭 Projects
 
 * MIPS CPU: RISC 5-Stage MIPS 32-bit CPU capable of simulating the MIPS ISA.
+* Company Data Managing System: Designed a program that links a company database to an interactive App that allows for the retrieval and update of data. Tech used: Java, JavaFX, JBDC, MySQL.
+* Cache Simulator: Designed an Object-Oriented program that simulates a Cache using Python.
 
 ## 🚀 Skills
 
