@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🤠 About Me
 
-I am a third year Computer Engineering student at Penn State University. I am very passionate passionate about backend software development and computer arquitecture. Check out my humble projects!
+I am a third year Computer Engineering student at Penn State University. I am very passionate about backend software development and computer arquitecture. Check out my humble projects!
 
 ## 🔭 Projects
 
