@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-I am a Core BIOS Firmware Engineering intern. I am also a senior Computer Engineering student at The Pennsylvania State University. I am very passionate about embedded software and firmware engineering. 
+I am a Core BIOS Firmware Engineering intern at HP Inc.. I am also a senior Computer Engineering student at The Pennsylvania State University. I am very passionate about embedded software and firmware engineering. 
 
 ## Projects
 
