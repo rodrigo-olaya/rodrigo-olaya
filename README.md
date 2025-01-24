@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🤠 About Me
+## About Me
 
-I am a third year Computer Engineering student at Penn State University. I am very passionate about backend software development and computer arquitecture. Check out my humble projects!
+I am a Core BIOS Firmware Engineering intern. I am also a senior Computer Engineering student at The Pennsylvania State University. I am very passionate about embedded software and firmware engineering. 
 
-## 🔭 Projects
+## Projects
 
 * MIPS CPU: RISC 5-Stage MIPS 32-bit CPU capable of simulating the MIPS ISA.
 * Company Data Managing System: Designed a program that links a company database to an interactive App that allows for the retrieval and update of data. Tech used: Java, JavaFX, JBDC, MySQL.
 * Cache Simulator: Designed an Object-Oriented program that simulates a Cache using Python.
 
-## 🚀 Skills
+## Skills
 
 * Languages and Frameworks: Python, Java, C, MIPS Assembly, Verilog, JDBC, JavaFX.
 * Tools: OOP, Databases, MySQL, Latex.
 
-## 📩 Contact
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/rodrigo-olaya-moreno/
 
