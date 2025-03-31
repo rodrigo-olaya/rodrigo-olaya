@@ -25,10 +25,15 @@ I am a Core BIOS Firmware Engineering intern at HP Inc. I am also a senior Compu
     - Enabled I2C and SPI communication with an Inertial Measurement Unit to collect motion data.
 * MIPS CPU: RISC 5-Stage MIPS 32-bit CPU capable of simulating the MIPS ISA.
 * MDADM Linear Device: Integrated a JBOD system into an existing storage system.
+
 * TE Connectivity LLM-based Machine Maintenance Chatbot
     - Lead the development of a user interface capable of retrieving answers and relevant pages from factory machine manuals using HTML, CSS, JavaScript and Django.
     - Communicated with TE Connectivity representatives to ensure development met client needs.
     - Developed a Retrieval Augmented Generation (RAG) model, including context generation, embeddings creation and similarity search.
+ 
+* Motion Detection Algorithms: Four algorithms to detect motion in video sequences using MATLAB.
+    - Implemented Simple Background Subtraction, Simple Frame Differencing, Adaptive Background Subtraction, Persistent Frame Differencing.
+    - Produced MP4 videos from output frames and analyzed algorithm performance under varying parameters.
 * Company Data Managing System: Designed a program that links a company database to an interactive App that allows for the retrieval and update of data.
 * Cache Simulator: Designed an Object-Oriented program that simulates a Cache using Python.
 
