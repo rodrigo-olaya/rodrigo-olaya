@@ -1,4 +1,4 @@
-### Welcome, I am Rodrigo Olaya!
+### Welcome, I'm Rodrigo Olaya!
 
 <!--
 **rodrigo-olaya/rodrigo-olaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-I am a Core BIOS Firmware Engineering intern at HP Inc. I am also a senior Computer Engineering student at The Pennsylvania State University. I am passionate about embedded software and firmware engineering. 
+I'm an Embedded Software QA Engineer at GE Appliances, passionate about embedded software and firmware engineering.
+
+I recently graduated from The Pennsylvania State University with a bachelor's in Computer Engineering. During my senior year, I worked as a Firmware Engineering intern at HP Inc.
+
+## Currently working on
+
+### Smart Home using ESP32 microcontrollers
+Designed a Smart Home system using a Raspeberry Pi and ESP32 microcontrollers
+- Implemented embedded IoT software in C to gather data and communicate between devices
+- Built a React dashboard to monitor and visualize sensor data in real time.
 
 ## Projects
 
